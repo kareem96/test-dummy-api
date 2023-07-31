@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestDummyJson</string>
+    <string name="dummy">Dummy</string>
+</resources>
